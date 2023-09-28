@@ -1,4 +1,4 @@
-package org.codfebyaidan.ch2;
+package org.codebyaidan.ch2;
 
 class Factorials {
     static int computeFactorials(int k) {
