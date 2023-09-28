@@ -14,8 +14,6 @@ Just some learning snippets and such I find from books about concurrency program
 
 ## Authors
 
-Contributors names and contact info
-
 [@CodeByAidan](https://github.com/CodeByAidan).
 
 ## License
