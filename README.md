@@ -18,4 +18,4 @@ Just some learning snippets and such I find from books about concurrency program
 
 ## License
 
-This project is licensed under the [MIT] License - see the [LICENSE](https://github.com/CodeByAidan/Concurrency-Programming/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/CodeByAidan/Concurrency-Programming/blob/main/LICENSE) file for details
